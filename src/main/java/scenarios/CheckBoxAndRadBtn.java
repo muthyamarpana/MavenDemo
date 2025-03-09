@@ -43,5 +43,6 @@ public class CheckBoxAndRadBtn {
 		}
 		Thread.sleep(5000);
 		driver.quit();
+		System.out.println("Program executed....");
 	}
 }
