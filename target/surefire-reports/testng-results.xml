@@ -2,36 +2,36 @@
 <testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-22T05:22:35 IST" name="Suite" finished-at="2025-02-22T05:23:47 IST" duration-ms="71676">
+  <suite started-at="2025-03-10T05:38:45 IST" name="Suite" finished-at="2025-03-10T05:39:46 IST" duration-ms="60508">
     <groups>
     </groups>
-    <test started-at="2025-02-22T05:22:35 IST" name="Test" finished-at="2025-02-22T05:23:47 IST" duration-ms="71676">
+    <test started-at="2025-03-10T05:38:45 IST" name="Test" finished-at="2025-03-10T05:39:46 IST" duration-ms="60508">
       <class name="scenarios.MouseHover">
-        <test-method signature="dragAndDrop()[pri:0, instance:scenarios.MouseHover@39529185]" started-at="2025-02-22T05:22:36 IST" name="dragAndDrop" finished-at="2025-02-22T05:22:49 IST" duration-ms="13889" status="PASS">
+        <test-method signature="dragAndDrop()[pri:0, instance:scenarios.MouseHover@15eb5ee5]" started-at="2025-03-10T05:38:45 IST" name="dragAndDrop" finished-at="2025-03-10T05:38:59 IST" duration-ms="14073" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dragAndDrop -->
       </class> <!-- scenarios.MouseHover -->
       <class name="scenarios.DatePicker">
-        <test-method signature="selDate()[pri:0, instance:scenarios.DatePicker@647e447]" started-at="2025-02-22T05:23:35 IST" name="selDate" finished-at="2025-02-22T05:23:47 IST" duration-ms="12355" status="PASS">
+        <test-method signature="selDate()[pri:0, instance:scenarios.DatePicker@28eaa59a]" started-at="2025-03-10T05:39:36 IST" name="selDate" finished-at="2025-03-10T05:39:46 IST" duration-ms="9212" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selDate -->
       </class> <!-- scenarios.DatePicker -->
       <class name="scenarios.CheckBoxAndRadBtn">
-        <test-method signature="handlingChkBoxesRadBtns()[pri:0, instance:scenarios.CheckBoxAndRadBtn@28eaa59a]" started-at="2025-02-22T05:23:07 IST" name="handlingChkBoxesRadBtns" finished-at="2025-02-22T05:23:27 IST" duration-ms="19410" status="PASS">
+        <test-method signature="handlingChkBoxesRadBtns()[pri:0, instance:scenarios.CheckBoxAndRadBtn@3d51f06e]" started-at="2025-03-10T05:39:12 IST" name="handlingChkBoxesRadBtns" finished-at="2025-03-10T05:39:29 IST" duration-ms="17183" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- handlingChkBoxesRadBtns -->
       </class> <!-- scenarios.CheckBoxAndRadBtn -->
       <class name="scenarios.SwitchingWindows">
-        <test-method signature="switchWin()[pri:0, instance:scenarios.SwitchingWindows@7ed7259e]" started-at="2025-02-22T05:22:49 IST" name="switchWin" finished-at="2025-02-22T05:23:07 IST" duration-ms="17689" status="PASS">
+        <test-method signature="switchWin()[pri:0, instance:scenarios.SwitchingWindows@481a996b]" started-at="2025-03-10T05:38:59 IST" name="switchWin" finished-at="2025-03-10T05:39:12 IST" duration-ms="12458" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- switchWin -->
       </class> <!-- scenarios.SwitchingWindows -->
       <class name="scenarios.DynDataHandling">
-        <test-method signature="getDynData()[pri:0, instance:scenarios.DynDataHandling@3427b02d]" started-at="2025-02-22T05:23:27 IST" name="getDynData" finished-at="2025-02-22T05:23:35 IST" duration-ms="8239" status="PASS">
+        <test-method signature="getDynData()[pri:0, instance:scenarios.DynDataHandling@7ed7259e]" started-at="2025-03-10T05:39:29 IST" name="getDynData" finished-at="2025-03-10T05:39:36 IST" duration-ms="7507" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getDynData -->
